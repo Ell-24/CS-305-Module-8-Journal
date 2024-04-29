@@ -26,5 +26,19 @@ implmeneting a self generated self certificate and utilizing the OWASP
 Dependency check tool. This all stregnthened the system overall and 
 offered their own unique angle.
 
-I utilized the automated testing tool in the system to ensure if the 
-code was running properly. 
+To ensure that my code was functional and secure I implemented some testing
+methods. I utilized a lot of manuel testing and anazlyzed my code and 
+associating documents to check if the logic was proper and all aspects were
+consistent. I utilized the automated testing tool in the system to ensure if the 
+code was running properly. I then reran the OWASP Dependency check tool
+and anazlyzed the new report to check if there were any new vulnarabilities
+
+There were many new tools that Ive been introduced to. Ive never used the OWASP 
+Dependency check tool, The self generated certification, or implementing 
+hashing functions at a level similar to this project. I can see these tools
+being very helpful in specific situations and im glad to have these tools
+within my skillset.
+
+Id like to show employers the tools and features I implemented successfully within 
+this project. I hope to show them that I have used these tools before and have some
+familiarity with them.
